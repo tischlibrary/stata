@@ -30,7 +30,7 @@ widget      : mathjax
 --- 
 ## Preliminaries
 
-- tinyurl.com/tischstataOLS
+- tinyurl.com/tischstata
 
 - Open Stata:  Windows -> Data & Statistical Applications -> Stata 14
 
