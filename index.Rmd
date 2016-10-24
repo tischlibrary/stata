@@ -182,7 +182,7 @@ regress lexp safewater
 ```
 ![](lifeexp_regress_1.png)
 
-- Each 1 unit increasae in safewater is associated with a .238 change in life expectancy
+- Each 1 unit increase in safewater is associated with a .238 change in life expectancy
 
 --- 
 
