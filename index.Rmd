@@ -296,7 +296,7 @@ regress earn height
 
 
 ```
-![](outreg2.png)
+![](out.png)
 
 
 ---
@@ -305,12 +305,12 @@ regress earn height
 outreg2
 
 ```
-regress earn height ed female age
+regress earn height ed age
 outreg2 using model.doc, append
 
 
 ```
-![](outreg.png)
+![](out2.png)
 
 
 ---
