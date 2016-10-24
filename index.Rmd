@@ -52,11 +52,6 @@ Highly recommended to keep a do/log file of your sessions
 - log file = record of your output
 
 
----
-
-## Stata Workflow
-
-
 
 
 ---
