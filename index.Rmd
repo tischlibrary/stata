@@ -20,7 +20,6 @@ widget      : mathjax
 ## Goals for the Hour
 
 - (brief) Introduction to the Stata Interface
-- Formatting Datasets to be used in a Regression
 - 2 Examples of Linear Regression
 - Exporting Regression Tables 
 - Where to get help
