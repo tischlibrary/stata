@@ -27,6 +27,7 @@ widget      : mathjax
 
 
 --- 
+
 ## Preliminaries
 
 - tinyurl.com/tischstata
@@ -40,7 +41,7 @@ widget      : mathjax
 
 - Command Line
 - Review
-- Output
+- Output/Results
 - Variables
 - Properties
 
@@ -50,13 +51,6 @@ Highly recommended to keep a do/log file of your sessions
 
 - do file = a script of your syntax that can be executed
 - log file = record of your output
-
-
----
-
-## Stata Workflow
-
-
 
 
 ---
@@ -150,7 +144,7 @@ Why are values different colors?
 ## Life Expectancy Dataset
 Matrix plots 
 ```
-graph matrix lexp safewater gnppc
+graph matrix lexp safewater gnppc popgrowth
 ```
 
 ![](matrix.png)
@@ -187,7 +181,7 @@ regress lexp safewater
 ```
 ![](lifeexp_regress_1.png)
 
-- Each 1 unit increasae in safewater is associated with a .238 change in life expectancy
+- Each 1 unit increase in safewater estimates a .238 change in life expectancy
 
 --- 
 
@@ -235,6 +229,8 @@ Is there a significant relationship between height and salary?
 regress earn height
 ```
 ![](heights_regress.png)
+
+>- - each 1 unit increase in height estimates a 1,222 increase in earnings
 
 
 ---
@@ -343,6 +339,7 @@ help regress
 ## thank you!
 
 email: joshua.quan@tufts.edu
+---
 
 
 
